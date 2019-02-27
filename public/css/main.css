@@ -1,0 +1,26 @@
+#instrument-family-info{
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  margin
+}
+
+label {
+  color: blue;
+  font-weight: bold;
+}
+
+ul {
+  color: green;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+}
+
+li {
+  display: inline-block;
+  color: orange;
+}
